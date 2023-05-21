@@ -6,6 +6,6 @@
 3) Установить зависимости: pip install -r requirements.txt
 
 Инференс:
-python run.py /path/to/content_image.png /path/to/style_image.png /path/to/output/image.png(jpg)
+python run.py /path/to/content_image /path/to/style_image /path/to/output/image.png(jpg)
 
 Данный ремикс основан на Stable Diffusion.
