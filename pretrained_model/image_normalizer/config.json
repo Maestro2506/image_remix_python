@@ -1,0 +1,6 @@
+{
+  "_class_name": "StableUnCLIPImageNormalizer",
+  "_diffusers_version": "0.17.0.dev0",
+  "_name_or_path": "/root/.cache/huggingface/hub/models--stabilityai--stable-diffusion-2-1-unclip/snapshots/e99f66a92bdcd1b0fb0d4b6a9b81b3b37d8bea44/image_normalizer",
+  "embedding_dim": 1024
+}
