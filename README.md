@@ -4,7 +4,7 @@
 
 Для запуска алгоритма потребуется:
 1) Скачать репозиторий
-2) Скачать модели по ссылке: https://drive.google.com/drive/folders/1SQDBt4YekymAVUmfnKmyXYtAM9UD-B1N?usp=sharing. Папки unet и vae необходимо сохранить в папке pretrained_model (pretrained_model/unet, pretrained_model/vae).
+2) Скачать модели по ссылке: https://drive.google.com/drive/folders/1SQDBt4YekymAVUmfnKmyXYtAM9UD-B1N?usp=sharing. Папки unet, vae, image_encoder и text_encoder необходимо сохранить в папке pretrained_model (pretrained_model/unet, pretrained_model/vae, pretrained_model/image_encoder, pretrained_model/text_encoder).
 3) Установить зависимости: pip install -r requirements.txt
 
 Инференс:
